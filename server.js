@@ -27,7 +27,7 @@ var Server = qclass({
 });
 
 /*
- * @module esindexer
+ * @module server
  */
 
 module.exports = {
